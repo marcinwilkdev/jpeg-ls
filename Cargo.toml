@@ -1,0 +1,8 @@
+[package]
+name = "tga"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.24"
+entropy_calculator = { git = "https://github.com/marcinwilkdev/entropy-calculator.git" }
